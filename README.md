@@ -1,2 +1,2 @@
 # IRIS
-The IRIS (Internal Rational Interface System) for monitoring modules, grades and feedback.
+The IRIS (Internal Report Interface System) for monitoring modules, grades and feedback.
